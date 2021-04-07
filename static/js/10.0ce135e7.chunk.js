@@ -1,0 +1,2 @@
+(this.webpackJsonpsource_code=this.webpackJsonpsource_code||[]).push([[10],{288:function(s,e,c){"use strict";c.r(e),e.default=c.p+"static/media/022-hospital bed.427e56d4.svg"}}]);
+//# sourceMappingURL=10.0ce135e7.chunk.js.map
